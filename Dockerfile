@@ -1,5 +1,5 @@
 # On utilise Java 21 (votre version installée)
-FROM eclipse-temurin:21-jdk-jammy
+FROM eclipse-temurin:17-jdk-jammy
 
 # Dossier de travail dans le conteneur
 WORKDIR /app
